@@ -6,4 +6,4 @@
 - [Diari](Diario)
 - Codice sorgente
 - Codice compilato
-- [Giude x Java.Net](Training)
+- [Giude x Java.Net](Training/java.net.txt)
