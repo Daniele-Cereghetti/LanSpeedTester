@@ -1,7 +1,7 @@
 # Daniele Cereghetti - LanSpeedTester
 
 
-## Modelli
+## Files
 - [Documentazione](Documentazione)
 - [Diari](Diario)
 - Codice sorgente
