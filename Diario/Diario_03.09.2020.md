@@ -17,4 +17,4 @@
 -
 
 ## Programma di massima per la prossima giornata di lavoro
-Miglioramento della pianificazione e continuazione analisi
+Miglioramento e continuazione analisi
