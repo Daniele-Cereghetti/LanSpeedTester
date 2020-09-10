@@ -3,7 +3,7 @@
 
 ## Files
 - [Documentazione](Documentazione)
-- [Diari](Diario)
+- [Diario](Diario)
 - Codice sorgente
 - Codice compilato
 - [Giude x Java.Net](Training/java.net.txt)
