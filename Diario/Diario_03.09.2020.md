@@ -7,8 +7,8 @@
 
 |Orario        |Lavoro svolto                 |
 |--------------|------------------------------|
-|14:30 - 15:00 |Pianificazione 		          |
-|15:00 - 15:45 |Analisi					      |
+| 14:30 - 15:00|Lettura specifiche		      |
+|15:00 - 15:45 |Analisi 		          |
 
 ##  Problemi riscontrati e soluzioni adottate
 -
