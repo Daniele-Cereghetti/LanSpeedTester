@@ -1,10 +1,17 @@
-Tutto:
+java.net:
 	https://docs.oracle.com/en/java/javase/12/docs/api/java.base/java/net/package-summary.html
-Client:
+Client tcp:
 	https://docs.oracle.com/en/java/javase/12/docs/api/java.base/java/net/Socket.html
-Server:
+Server tcp:
 	https://docs.oracle.com/en/java/javase/12/docs/api/java.base/java/net/ServerSocket.html
-Esempio:
+Esempio tcp:
 	https://www.codejava.net/java-se/networking/java-socket-server-examples-tcp-ip
+	https://www.tutorialspoint.com/javaexamples/net_multisoc.htm
+Rrotocollo udp:
+	https://docs.oracle.com/en/java/javase/12/docs/api/java.base/java/net/DatagramSocket.html
+Esempio udp:
+	https://www.codejava.net/java-se/networking/java-udp-client-server-program-example
+Thread:
+	https://docs.oracle.com/en/java/javase/12/docs/api/java.base/java/lang/Thread.html
 IPv4:
 	https://docs.oracle.com/en/java/javase/12/docs/api/java.base/java/net/Inet4Address.html
