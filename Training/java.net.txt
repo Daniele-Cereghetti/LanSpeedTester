@@ -5,6 +5,6 @@ Client:
 Server:
 	https://docs.oracle.com/en/java/javase/12/docs/api/java.base/java/net/ServerSocket.html
 Esempio:
-	https://www.codejava.net/java-se/networking/java-socket-server-examples-tcp-ipa
+	https://www.codejava.net/java-se/networking/java-socket-server-examples-tcp-ip
 IPv4:
 	https://docs.oracle.com/en/java/javase/12/docs/api/java.base/java/net/Inet4Address.html
