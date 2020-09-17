@@ -9,6 +9,7 @@ Esempio tcp:
 	https://www.tutorialspoint.com/javaexamples/net_multisoc.htm
 Rrotocollo udp:
 	https://docs.oracle.com/en/java/javase/12/docs/api/java.base/java/net/DatagramSocket.html
+	https://docs.oracle.com/en/java/javase/12/docs/api/java.base/java/net/DatagramPacket.html
 Esempio udp:
 	https://www.codejava.net/java-se/networking/java-udp-client-server-program-example
 Thread:
