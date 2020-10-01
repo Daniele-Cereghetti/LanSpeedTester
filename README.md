@@ -4,6 +4,6 @@
 ## Files
 - [Documentazione](Documentazione)
 - [Diario](Diario)
-- Codice sorgente
+- [src] Codice sorgente
 - Codice compilato
 - [Giude x Java.Net](Training/java.net.txt)
