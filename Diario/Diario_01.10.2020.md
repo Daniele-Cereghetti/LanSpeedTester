@@ -7,7 +7,8 @@
 
 |Orario        |Lavoro svolto                 |
 |--------------|------------------------------|
-|12:30 - 15:45 | scrittura della classe Server + aiuti |
+|12:30 - 15:10 | scrittura della classe Server + aiuti |
+|15:10 - 15:40 | Documentazione |
 
 
 ##  Problemi riscontrati e soluzioni adottate
