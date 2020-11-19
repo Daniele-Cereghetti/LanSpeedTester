@@ -1,6 +1,6 @@
 # LanSpeedTester | Diario di lavoro
 ##### Daniele Cereghetti
-### SAMT, 29 ottobre 2020
+### SAMT, 19 novembre 2020
 
 ## Lavori svolti
 
