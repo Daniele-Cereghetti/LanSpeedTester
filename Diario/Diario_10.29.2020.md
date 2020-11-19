@@ -16,7 +16,7 @@
 
 
 ##  Punto della situazione rispetto alla pianificazione
-
+Sono due settimane in avanti.
 
 ## Programma di massima per la prossima giornata di lavoro
 Scrivere la statistica
