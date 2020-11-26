@@ -8,8 +8,7 @@
 |Orario        |Lavoro svolto                  |
 |--------------|-------------------------------|
 |08:20 - 11:00 |Messa a posto errori nel codice|
-|11:00 - 11:30 |Penso a come risolvere il 2
-problema di statistica   |
+|11:00 - 11:30 |Penso a come risolvere il 2 problema di statistica   |
 
 
 
