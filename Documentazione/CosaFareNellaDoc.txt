@@ -1,0 +1,21 @@
+-------------------------------
+DA FARE
+-------------------------------
+3. Progettazione
+    tutta
+5. Test
+    tutta
+-------------------------------
+DA MIGLIORARE
+-------------------------------
+1. introduzione
+    Abrasct
+2. Analisi
+    2.1
+    2.3
+4. Implementazione
+    all
+6. Consuntivo
+    all
+7. Conclusioni
+    all
