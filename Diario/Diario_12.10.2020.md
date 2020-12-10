@@ -7,7 +7,7 @@
 
 |Orario        |Lavoro svolto                  |
 |--------------|-------------------------------|
-|08:20 - 15:40 |Scrittura Documentazione       |
+|12:30 - 15:40 |Scrittura Documentazione       |
 
 
 
