@@ -13,8 +13,9 @@
 
 
 ##  Problemi riscontrati e soluzioni adottate
-Non ero convinto della mia progettazzione, infatti l'ho riguardata e l'ho migliorata: non ero molto convito di come prendere 
-i dati per la statitica, all'inizio ho pensato che ogni thread scrivesse un file e la classe madre leggesse i dati e poi elimina i file;
+Non ero convinto della mia progettazzione, infatti l'ho riguardata e l'ho migliorata: non ero convinto di utilizzare una porta sola di ascolto
+per le thread, quindi ho optato che ogni processo avesse una sua porta dedicata (sia per client sia per server). Inoltre non ero molto convito di come 
+prendere i dati per la statitica, all'inizio ho pensato che ogni thread scrivesse un file e la classe madre leggesse i dati e poi elimina i file;
 discutendo però con il professore è saltato fuori che è un pò laborioso usare i file, quindi mi ha proposto di usare una lista che fosse 
 pensata per il multi-threading, vedendo il suo utilizzo ho deciso di implementarle questa funzione.
 

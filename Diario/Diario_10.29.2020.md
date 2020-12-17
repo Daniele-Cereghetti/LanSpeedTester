@@ -9,7 +9,7 @@
 |--------------|------------------------------|
 |10:05 - 10:36 |Scrittura classe client       |
 |10:40 - 11:35 |Scrittura Documentazione      |
-|12:30 - 14:00 |Scrittura classe client      |
+|12:30 - 15:30 |Scrittura classe client      |
 
  
 ##  Problemi riscontrati e soluzioni adottate

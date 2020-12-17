@@ -1,22 +1,18 @@
 # LanSpeedTester | Diario di lavoro
 ##### Daniele Cereghetti
-### SAMT, 3 dicembre 2020
+### SAMT, 17 dicembre 2020
 
 ## Lavori svolti
 
 
 |Orario        |Lavoro svolto                  |
 |--------------|-------------------------------|
-|12:30 - 15:40 |Scrittura Documentazione       |
+|12:30 - 15:40 |Messa a posto Documentazione   |
 
 
 
 ##  Problemi riscontrati e soluzioni adottate
-
+nessuno
 
 ##  Punto della situazione rispetto alla pianificazione
-Ho finito i test per il progetto (tutti superati :) ) e adesso 
-sto facendo la documentazione 
-
-## Programma di massima per la prossima giornata di lavoro
-Finire la documentazione
+Oggi c'è la consegna del progetto
